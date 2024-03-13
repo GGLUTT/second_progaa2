@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\second_proga\second_proga\bin\Debug\net6.0\second_proga.exe
+C:\Users\Admin\source\repos\second_proga\second_proga\bin\Debug\net6.0\second_proga.deps.json
+C:\Users\Admin\source\repos\second_proga\second_proga\bin\Debug\net6.0\second_proga.runtimeconfig.json
+C:\Users\Admin\source\repos\second_proga\second_proga\bin\Debug\net6.0\second_proga.dll
+C:\Users\Admin\source\repos\second_proga\second_proga\bin\Debug\net6.0\second_proga.pdb
+C:\Users\Admin\source\repos\second_proga\second_proga\obj\Debug\net6.0\second_proga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\second_proga\second_proga\obj\Debug\net6.0\second_proga.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\second_proga\second_proga\obj\Debug\net6.0\second_proga.AssemblyInfo.cs
+C:\Users\Admin\source\repos\second_proga\second_proga\obj\Debug\net6.0\second_proga.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\second_proga\second_proga\obj\Debug\net6.0\second_proga.dll
+C:\Users\Admin\source\repos\second_proga\second_proga\obj\Debug\net6.0\refint\second_proga.dll
+C:\Users\Admin\source\repos\second_proga\second_proga\obj\Debug\net6.0\second_proga.pdb
+C:\Users\Admin\source\repos\second_proga\second_proga\obj\Debug\net6.0\second_proga.genruntimeconfig.cache
+C:\Users\Admin\source\repos\second_proga\second_proga\obj\Debug\net6.0\ref\second_proga.dll
